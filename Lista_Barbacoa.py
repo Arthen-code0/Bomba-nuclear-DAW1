@@ -13,5 +13,6 @@ lista_barbacoa = {
     "bocatas" : ["jamón", "chorizo"],
     "Entretenimiento": ["PlayStation5", "balon"]
     "Postre" : ["Tarta"]
+    "Metodos" : ["Preservativos"]
 
 }
