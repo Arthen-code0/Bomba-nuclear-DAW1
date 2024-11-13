@@ -3,8 +3,9 @@ lista_barbacoa = {
     "bebida":["cocacola", "fanta naranja","Nestea"],
     "cubata":["whisky_solo", "Ron"],
     "carbon":["encendedor","gas"],
-    "herramientas":["cuchillo",["tenedores"],
-    "Juegos":["Uno"],
-    "Tonto el que lo lea": ['bomba'],
-    "tortilla":["cebolla"]
+    # No hace falta herramientas, se pueden comer con las manos
+    "Juegos":["Uno", "parchis"],
+    "Tonto el que lo lea":["bomba"],
+    "tortilla":["cebolla"],
+    "serranito":["tomate", "jamon", "pimiento", "tortilla francesa"]
 }
