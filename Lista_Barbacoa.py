@@ -1,10 +1,11 @@
 lista_barbacoa = {
     "comida":["salchicha", "chuletas","salchichón"],
-    "bebida":["cocacola", "fanta naranja","Nestea"],
-    "cubata":["whisky_solo", "Ron"],
+    "bebida":["cocacola", "Nestea"],
+    "cubata":["whisky", "Ron"],
     "carbon":["encendedor","gas"],
-    "herramientas":["cuchillo",["tenedores"],
+    "herramientas":["cuchillo","tenedores"],
     "Juegos":["Uno"],
     "Tonto el que lo lea": ['bomba'],
-    "tortilla":["cebolla"]
+    "tortilla":["cebolla"],
+    "bocatas" : ["jamón"]
 }
