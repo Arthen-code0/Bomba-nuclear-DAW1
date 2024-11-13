@@ -18,3 +18,4 @@ Muchas suerte chaval@s 😎.
 CEO: Jose Luis Marmol
 CO-CEO: Anderson Olivos
 Director: Nico Duran
+FUNDADOR: BOLA

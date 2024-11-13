@@ -4,4 +4,5 @@ lista_barbacoa = {
     "cubata":["whisky_solo", "ginebra y limón"],
     "carbon":["encendedor","gas"],
     "herramientas":["cuchillo"]
+    "metodos_prevencion"["preservativos"]
 }
