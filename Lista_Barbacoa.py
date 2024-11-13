@@ -11,6 +11,7 @@ lista_barbacoa = {
     "Juegos":["Uno"],
     "Tonto el que lo lea": ['bomba'],
     "bocatas" : ["jamón", "chorizo"],
-    "Entretenimiento": ["PlayStation5"]
+    "Entretenimiento": ["PlayStation5", "balon"]
+    "Postre : ["Tarta"]
 
 }
