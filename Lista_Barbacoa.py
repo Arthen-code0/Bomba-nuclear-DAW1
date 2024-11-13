@@ -6,4 +6,6 @@ lista_barbacoa = {
     "herramientas":["cuchillo"]
     "Juegos":["Uno"],
     "Tonto el que lo lea": ['bomba']
+    "Cachimba": ['tabaco', 'hornillo', 'pastillas']
+    "Mesa": ['manteles', 'sillas', 'servilletas']
 }
