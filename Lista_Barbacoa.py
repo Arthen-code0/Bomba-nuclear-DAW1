@@ -10,7 +10,9 @@ lista_barbacoa = {
     "serranito":["tomate", "jamon", "pimiento", "tortilla francesa"]
     "Juegos":["Uno"],
     "Tonto el que lo lea": ['bomba'],
+
+    "tortilla":["cebolla"],
+    "vasos"["cien"]
     "bocatas" : ["jamón", "chorizo"],
     "Entretenimiento": ["PlayStation5"]
-
 }
