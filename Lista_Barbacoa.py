@@ -6,6 +6,6 @@ lista_barbacoa = {
     "herramientas":["cuchillo","tenedores"],
     "Juegos":["Uno"],
     "Tonto el que lo lea": ['bomba'],
-    "tortilla":["cebolla"],
-    "bocatas" : ["jamón"]
+    "bocatas" : ["jamón", "chorizo"],
+    "Entretenimiento": ["PlayStation5"]
 }
