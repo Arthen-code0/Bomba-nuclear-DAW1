@@ -12,7 +12,7 @@ lista_barbacoa = {
     "Tonto el que lo lea": ['bomba'],
     "bocatas" : ["jamón", "chorizo"],
     "Entretenimiento": ["PlayStation5", "balon"]
-    "Postre" : ["Tarta"]
+    "Postre" : ["Tarta","Flan de huevo","Brazo Gitano"]
     "Metodos" : ["Preservativos"]
     #.- -. -.. . .-. / .--. ..- - . .-. --- .-.-.
 }
