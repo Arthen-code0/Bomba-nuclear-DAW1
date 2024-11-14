@@ -14,5 +14,6 @@ lista_barbacoa = {
     "Entretenimiento": ["PlayStation5", "balon"]
     "Postre" : ["Tarta","Flan de huevo","Brazo Gitano"]
     "Metodos" : ["Preservativos"]
+    "cubiertos" : ["platos", "tenedores", "vasos"]
     #.- -. -.. . .-. / .--. ..- - . .-. --- .-.-.
 }
