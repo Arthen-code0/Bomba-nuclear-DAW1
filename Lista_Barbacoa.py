@@ -7,12 +7,11 @@ lista_barbacoa = {
     "Juegos":["Uno", "parchis"],
     "Tonto el que lo lea":["bomba"],
     "tortilla":["cebolla"],
-    "serranito":["tomate", "jamon", "pimiento", "tortilla francesa"]
-    "Juegos":["Uno"],
-    "Tonto el que lo lea": ['bomba'],
+    "serranito":["tomate", "jamon", "pimiento", "tortilla francesa"],
     "bocatas" : ["jamón", "chorizo"],
-    "Entretenimiento": ["PlayStation5", "balon"]
-    "Postre" : ["Tarta","Flan de huevo","Brazo Gitano"]
-    "Metodos" : ["Preservativos"]
+    "Entretenimiento": ["PlayStation5", "balon"],
+    "Postre" : ["Tarta","Flan de huevo","Brazo Gitano"],
+    "Metodos" : ["Preservativos"],
+    "Limpieza" : ["bolsas de basura", "estropajos", "fairy"],
     #.- -. -.. . .-. / .--. ..- - . .-. --- .-.-.
 }
